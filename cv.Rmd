@@ -1,0 +1,9 @@
+---
+title: "Resume"
+---
+
+<a href="CV.pdf#" class="download" title="Download Resume as PDF">Download Resume</a>			
+
+## Header
+
+There is no better path forward to realize my dream of being the best possible Data Scientist and Software Engineer than working with you. Here is my resume, and I hope to be in touch with you soon!
