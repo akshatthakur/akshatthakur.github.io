@@ -1,5 +1,0 @@
----
-title: "Hello! I'm Akshat Thakur"
----
-
-And [here](https://akshatthakur.github.io/about.html) is a bit more about me.
