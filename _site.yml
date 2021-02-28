@@ -1,0 +1,25 @@
+name: "Akshat Thakur"                                 
+output_dir: "."
+navbar:
+  title: "Akshat Thakur"                           
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Résumé"
+      href: cv.html
+    - text: "Projects"
+      href: projects.html
+  right:
+    - text: "Email"
+      icon: fa-envelope-o
+      href: mailto:akshatvsthakur@gmail.com                   
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/akshatthakur     
+output:
+  html_document:
+    theme: journal
+    highlight: textmate

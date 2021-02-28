@@ -1,0 +1,25 @@
+---
+title: "A Brief Introduction to Akshat Thakur"
+---
+
+## My Motivations
+Throughout my life, I have always had a deep passion for creating new things and solving problems with no pre-existing solutions using technology and innovation.
+A curious individual, I have dabbled in many different fields (Data Science, Entrepreneurship, Prototyping, Digital Marketing, Teaching, Authorship). My passion lies in innovating, planning, designing, and implementing strategic and technical solutions that can effectively accomplish business priorities. 
+This essentially means that I want to use a combination of statistics, math and computer science to create cool stuff.
+
+## At the Moment
+I am currently completing my BSc. at **The University of British Columbia** as a **Statistics** major *(with a thematic concentration in Computer Science)*.
+
+## Where to Next?
+I am searching for a home for my inquisitiveness, my technical and non-technical proficiencies and experience programming in Python, R, Java, JavaScript/TypeScript, and SQL, and my extremely high interest in machine learning and artificial intelligence, data science, software engineering, and learning new technologies and tools. 
+If you have any open internship/co-op roles for Data Scientists, Data Analysts, Software Engineers or Product Managers, please do reach out to me [here](mailto:akshatvsthakur@gmail.com).
+
+## Where I've Been
+I have had the opportunity to be the President of two clubs (UBC Graphical and Architectural Design, The Heritage School STEM Club), and the VP of another (Jam for Justice - UBC Chapter). These positions have enabled me to hone my leadership, creative problem solving, collaboration, communication, writing, time management, and resourcefulness.
+
+Being a published author of [multiple books](https://www.amazon.com/Akshat-Thakur/e/B08KNNS2RK?ref=sr_ntt_srch_lnk_1&qid=1614533397&sr=8-1) has also helped me better hone the aforementioned skills.
+
+## What I'm Into
+I really enjoy jazz, punk rock, and classical music. In fact, I'm a composer. I dabble in crossover jazz, so if that's something you'd like to give a try, click [here](https://www.youtube.com/channel/UCzDFGGvpOsoS4XAbCMVfVxg). 
+
+I am also working on procuring funding for an absurdist sitcom about a data science enthusiast that makes music when he's not making cool graphs and stuff.
